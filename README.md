@@ -16,4 +16,4 @@ Android: [ParkCount PlayStore](https://play.google.com/store/apps/details?id=com
 - App icon designed using icons from [Iconify](https://iconify.design/) via Figma
 
 ## Privacy Policy
-https://andrewli22.github.io/ParkCount/
+[https://andrewli22.github.io/ParkCount/](https://andrewli22.github.io/ParkCount-site/)
